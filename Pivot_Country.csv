@@ -1,0 +1,150 @@
+Sum of Sales,,,Sum of Profit,
+Country,Total,,Country,Total
+United States,2297200.86,,Turkey,-98447.232
+Australia,925235.853,,Nigeria,-80750.718
+France,858931.083,,Netherlands,-41070.075
+China,700562.025,,Honduras,-29482.3714
+Germany,628840.0305,,Pakistan,-22446.648
+Mexico,622590.6175,,Argentina,-18693.79672
+India,589650.105,,Panama,-17723.45248
+United Kingdom,528576.3,,Sweden,-17519.367
+Indonesia,404887.4979,,Philippines,-16128.225
+Brazil,361106.419,,South Korea,-12792.831
+Italy,289709.658,,Venezuela,-11222.71044
+Spain,287146.68,,Lithuania,-8966.118
+Philippines,183420.165,,Portugal,-8703.06
+El Salvador,177554.9032,,Dominican Republic,-7613.49872
+New Zealand,172020.624,,Ireland,-7392.381
+Cuba,158854.9355,,Thailand,-7308.195
+Nicaragua,149687.0646,,Kazakhstan,-7099.896
+Guatemala,131602.4668,,Peru,-5507.87628
+Dominican Republic,126140.5813,,Zimbabwe,-5428.785
+Iran,113746.11,,Denmark,-4282.047
+Turkey,108507.948,,Haiti,-4187.311
+Japan,100787.517,,Yemen,-3706.458
+South Africa,95292.27,,Turkmenistan,-3302.709
+Austria,92539.05,,Uganda,-2426.085
+Honduras,90125.6486,,Myanmar (Burma),-2109.2583
+Democratic Republic of the Congo,87416.58,,Vietnam,-1870.2306
+Morocco,87077.94,,United Arab Emirates,-1036.86
+Ukraine,86857.17,,Papua New Guinea,-418.605
+Egypt,84139.32,,Tajikistan,-262.866
+Russia,82913.88,,Bahrain,12.84
+Saudi Arabia,82012.2,,Macedonia,43.38
+Colombia,81502.52976,,Equatorial Guinea,44.46
+Bangladesh,78256.47,,Armenia,69.09
+Netherlands,77514.945,,Eritrea,76.2
+Thailand,77051.955,,Sri Lanka,86.37
+Iraq,70714.8,,Swaziland,86.76
+Canada,66928.17,,Chad,90
+Vietnam,65800.1994,,Burundi,103.08
+Malaysia,61362.21,,Slovakia,115.26
+Pakistan,58872.612,,South Sudan,186.36
+Argentina,57511.78328,,Republic of the Congo,280.74
+Nigeria,54350.352,,Ethiopia,290.16
+Panama,51539.92752,,Guinea-Bissau,411.39
+Belgium,49226.7,,Paraguay,415.22752
+Poland,44228.85,,Central African Republic,468.54
+Singapore,40286.25,,Sierra Leone,471.75
+Romania,37256.58,,Guadeloupe,476.2
+Algeria,36091.59,,Gabon,479.67
+Chile,35447.07072,,Slovenia,590.04
+Myanmar (Burma),34138.8717,,Tunisia,602.1
+South Korea,33125.379,,Bosnia and Herzegovina,660.18
+Sweden,30491.403,,Syria,693.21
+Senegal,28848.9,,Albania,709.32
+Tanzania,26816.139,,Namibia,736.95
+Venezuela,26587.82956,,Djibouti,804.09
+Zambia,26035.5,,Togo,816.87
+Cote d'Ivoire,25618.17,,Nepal,877.44
+Angola,25554,,Lebanon,908.4
+Switzerland,24877.86,,Guinea,951.24
+Ghana,23272.26,,Somalia,1005.27
+Cameroon,22349.37,,Liberia,1044.9
+Afghanistan,21673.32,,Estonia,1110.18
+Mozambique,21302.88,,Martinique,1114.21104
+Finland,20704.35,,Moldova,1127.22
+Norway,20525.37,,Georgia,1285.68
+Israel,19294.08,,Montenegro,1286.76
+Peru,17833.18372,,Croatia,1303.92
+Kenya,17573.13,,Rwanda,1336.44
+Cambodia,17476.02,,Benin,1349.19
+Ireland,16639.509,,Jamaica,1392.22584
+Sudan,16338.57,,Lesotho,1398.21
+Bulgaria,15557.64,,Qatar,1502.88
+Portugal,15105.12,,Mongolia,1506.42
+Hungary,14254.05,,Hong Kong,1558.11
+Belarus,13386.09,,Uzbekistan,1648.14
+Ecuador,13342.98036,,Mauritania,1675.95
+Madagascar,12617.55,,Uruguay,1689.344
+Bolivia,11588.97,,Kyrgyzstan,1735.32
+Haiti,11038.329,,Taiwan,1818.6
+Uruguay,9712.544,,Niger,1819.77
+Czech Republic,9573.93,,Jordan,1823.7
+Mali,8914.47,,Azerbaijan,1831.05
+Denmark,8638.053,,Libya,2044.5
+Somalia,8185.05,,Czech Republic,2093.55
+Libya,7808.4,,Barbados,2199.79392
+Taiwan,7647.63,,Bolivia,2229.35
+Uzbekistan,7329.87,,Mali,2291.55
+Jordan,7326.15,,Trinidad and Tobago,2300.48448
+Barbados,7174.27392,,Ecuador,2548.10036
+Niger,6922.98,,Hungary,3201.93
+Trinidad and Tobago,6881.16448,,Madagascar,3296.58
+Mongolia,6789.84,,Israel,3559.23
+Jamaica,6761.78584,,Sudan,3619.5
+Lithuania,6724.332,,Finland,3905.73
+Lesotho,6711.99,,Bulgaria,3922.59
+Benin,6212.07,,Kenya,3992.1
+Hong Kong,6147,,Cambodia,4476.54
+Qatar,6049.8,,Belarus,4534.26
+Martinique,5968.15104,,Norway,5167.77
+Azerbaijan,5631.51,,Afghanistan,5460.3
+Georgia,5427.42,,Ghana,5568.54
+Syria,5310.63,,Cameroon,5664.75
+Rwanda,5194.08,,Tanzania,5727.969
+Moldova,5139.93,,Mozambique,5935.8
+Kyrgyzstan,5106.3,,Cote d'Ivoire,6430.62
+Kazakhstan,4605.444,,Angola,6494.97
+Estonia,4479.84,,Zambia,7001.73
+Croatia,4461.18,,Switzerland,7237.47
+Togo,4146.42,,Senegal,7511.16
+Mauritania,4020.93,,Romania,7626.27
+Montenegro,4004.37,,Chile,7744.33072
+Albania,3888.12,,Singapore,8853.06
+Zimbabwe,3765.105,,Algeria,9106.5
+Liberia,3560.88,,Poland,10983.12
+Nepal,3522.24,,Belgium,11572.59
+Guinea,3498.27,,Indonesia,15608.6779
+Papua New Guinea,2928.135,,Malaysia,16329.96
+Namibia,2899.47,,New Zealand,16600.284
+Lebanon,2796.66,,Canada,17817.39
+Republic of the Congo,2713.23,,Iraq,18243.21
+Bosnia and Herzegovina,2599.26,,Colombia,18798.04976
+Paraguay,2590.36752,,Saudi Arabia,19339.59
+Yemen,2465.712,,Bangladesh,19430.89
+Sierra Leone,2447.67,,Egypt,19702.23
+Djibouti,2392.95,,Italy,19828.758
+Central African Republic,2377.56,,Ukraine,20944.23
+Guinea-Bissau,2065.44,,Democratic Republic of the Congo,21860.58
+Turkmenistan,2027.061,,South Africa,21936.63
+Tunisia,1760.79,,Russia,22536.45
+Gabon,1751.73,,Morocco,22761.42
+Uganda,1621.935,,Japan,24328.467
+Slovenia,1469.94,,Austria,24341.7
+Guadeloupe,1461.64,,Iran,26856.24
+Chad,1317.03,,Guatemala,27944.68676
+South Sudan,1045.62,,Brazil,30090.49896
+Slovakia,865.32,,Nicaragua,33401.44456
+Sri Lanka,851.82,,Cuba,38889.21548
+Ethiopia,850.62,,El Salvador,42023.2432
+United Arab Emirates,744.12,,Spain,54390.12
+Bahrain,669.18,,Mexico,102818.0975
+Swaziland,288.03,,Australia,103907.433
+Burundi,267.72,,Germany,107322.8205
+Tajikistan,242.784,,France,109029.003
+Macedonia,209.64,,United Kingdom,111900.15
+Eritrea,187.74,,India,129071.835
+Armenia,156.75,,China,150683.085
+Equatorial Guinea,150.51,,United States,286397.0217
+Grand Total,12642501.91,,Grand Total,1467457.291

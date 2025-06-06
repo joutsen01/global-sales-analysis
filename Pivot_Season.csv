@@ -1,0 +1,24 @@
+Sum of Sales,,,,
+Months (Order Date),Quarters (Order Date),Years (Order Date),Order Date,Total
+Jan,,,,675133.6721
+Feb,,,,543739.3799
+Mar,,,,770500.9413
+Apr,,,,698561.2118
+May,,,,904012.3382
+Jun,,,,1269716.754
+Jul,,,,749381.8367
+Aug,,,,1293833.165
+Sep,,,,1437380.11
+Oct,,,,1168184.386
+Nov,,,,1551277.342
+Dec,,,,1580780.773
+Grand Total,,,,12642501.91
+,,,,
+Sum of Sales,,,,
+Years (Ship Date),Quarters (Ship Date),Months (Ship Date),Ship Date,Total
+2011,,,,2222375.556
+2012,,,,2677017.455
+2013,,,,3390475.805
+2014,,,,4292495.279
+2015,,,,60137.81512
+Grand Total,,,,12642501.91

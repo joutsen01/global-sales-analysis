@@ -1,0 +1,23 @@
+Sum of Sales,,
+Category,Sub-Category,Total
+Furniture,Bookcases,1466572.242
+,Chairs,1501681.764
+,Furnishings,385578.2559
+,Tables,757041.9244
+Furniture Total,,4110874.186
+Office Supplies,Appliances,1011064.305
+,Art,372091.9659
+,Binders,461911.5057
+,Envelopes,170904.3016
+,Fasteners,83242.3159
+,Labels,73404.03
+,Paper,244291.7194
+,Storage,1127085.861
+,Supplies,243074.2206
+Office Supplies Total,,3787070.225
+Technology,Accessories,749237.0185
+,Copiers,1509436.273
+,Machines,779060.0671
+,Phones,1706824.139
+Technology Total,,4744557.498
+Grand Total,,12642501.91
